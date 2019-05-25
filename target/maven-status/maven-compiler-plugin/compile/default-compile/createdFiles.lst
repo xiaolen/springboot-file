@@ -1,0 +1,9 @@
+com\shipin\shangchuan\model\User.class
+com\shipin\shangchuan\ShangchuanApplication.class
+com\shipin\shangchuan\utils\WebAppConfig.class
+com\shipin\shangchuan\controller\MyfileCOntroller.class
+com\shipin\shangchuan\controller\FileUploadController.class
+com\shipin\shangchuan\dao\ShiPinDao.class
+com\shipin\shangchuan\controller\UserController.class
+com\shipin\shangchuan\model\Shipin.class
+com\shipin\shangchuan\service\ShiPinService.class
